@@ -1,9 +1,0 @@
-Hi! It's Rikki. 
-
-Having no experience in flutter, at first, I thought that the challenge was going to be easy. 
-After all, it was just 2 screens if I went for option 1. 
-I started learning through the introductions in the flutter website together with a youtube playlist by The Net Ninja, and I it was kind of confusing.
-I couldn't really learn quickly because my laptop hated me when I tried running/debugging the code on my phone.
-I wasn't able to finish the challenge but I did what I could huhuhu. 
-Although I didn't finish it, I'm thankful for this challenge because it made me learn a new language in a whole new environment(?) by myself.  
-That's all, bye!!!!
